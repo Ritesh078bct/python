@@ -1,0 +1,23 @@
+## here is the steps to create and activate virtual environment
+
+
+1. run the command -    python -m venv .venv(which is the name of folder)
+2. To activate it -- 
+2.1 for powershell -- .venv/Scripts/activate
+2.2 for git bash ---  move to script directory and run the command (. activate )  And the move /
+    back to the project folder 
+
+3. to deactivate run the command ( deactivate)
+
+
+there is also another way to  create virtual environment
+
+uv install i.e.  pip install uv 
+
+
+
+
+
+#############   Here is the source to link tailwind with Django
+https://django-tailwind.readthedocs.io/en/latest/installation.html
+
