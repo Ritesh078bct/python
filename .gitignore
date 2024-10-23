@@ -2,3 +2,4 @@ webscrapper/.venv/
 hello.py
 virtual_py/.venv
 .vscode/
+mongodb+srv://riteshpython:riteshpython@youtube-python.xvkae.mongodb.net/
