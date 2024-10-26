@@ -3,3 +3,5 @@ hello.py
 virtual_py/.venv
 .vscode/
 mongodb+srv://riteshpython:riteshpython@youtube-python.xvkae.mongodb.net/
+projects/venv
+projects/quiz/venv
